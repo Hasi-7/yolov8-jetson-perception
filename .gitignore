@@ -8,4 +8,5 @@ __pycache__/
 *.trt
 *.log
 .DS_Store
+.mcap
 Thumbs.db
